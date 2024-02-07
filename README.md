@@ -17,5 +17,12 @@ For the DietApp by FitLynk project, I made significant contributions to enhance 
    - Contributed ideas and solutions to improve the overall user experience of the application.
    - Ensured seamless integration of database functionalities with the frontend interface to provide a smooth user journey.
 
+#### Tech Stack
+
+- **Programming Languages**: HTML5, CSS3, PHP, MySQL
+- **Operating Systems**: Linux
+- **Tools & Applications**: Git, Jira
+- **Frameworks and Cloud Services**: Bootstrap
+
 ### Conclusion
 My contributions to the DietApp by FitLynk project significantly enhanced its functionality and user experience. By optimizing the MySQL database structure and implementing dynamic content generation using PHP, I played a pivotal role in delivering a robust and user-friendly diet application. Through collaboration, innovation, and attention to detail, I contributed to the success of the project and helped achieve its objectives effectively.
